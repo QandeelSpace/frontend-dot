@@ -23,10 +23,13 @@ const Home = () => {
 
 
 
+
+
+
         fetchingALLItems()
     }, [])
 
-    console.log("items data", items);
+    //console.log("items data", items);
 
 
     return (
